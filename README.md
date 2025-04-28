@@ -44,3 +44,6 @@
 ### Run the App
 - `npm run dev`
 
+
+## Preview looks like
+![alt text](https://github.com/sarmishra/React-FastAPI/blob/main/Preview.png?raw=true)
